@@ -1,0 +1,19 @@
+{
+  "name": "memorycardgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeusGamer101/MemoryCardGame.git"
+  },
+  "author": "Blondel et Marco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeusGamer101/MemoryCardGame/issues"
+  },
+  "homepage": "https://github.com/ZeusGamer101/MemoryCardGame#readme"
+}
